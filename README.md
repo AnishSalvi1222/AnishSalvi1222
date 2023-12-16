@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-<h2 align="center">Technologies I love</h2>
+<h1 align="center">Technologies I love</h1>
 
 <p align="left">
 </p>
